@@ -1,0 +1,4 @@
+#ignore all hidden
+.*
+#ignore exept for
+!.gitignore
